@@ -1,5 +1,5 @@
-# NodeJS-TypeScript
-A NodeJS with TypeScript practice
+# NodeJS-TypeScript-TypeORM
+A NodeJS with TypeScript & TypeORM practice
 
 # Details 
-Express with MongoDB
+Express with Postgre
